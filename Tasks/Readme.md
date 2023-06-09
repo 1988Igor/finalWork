@@ -11,16 +11,16 @@
 10.Удалить из таблицы верблюдов,т.к.верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади,и ослы в одну таблицу. 
 11.Создать новую таблицу“молодые животные” в которую попадут все животные старше 1 года,но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице 12.Объединить все таблицы в одну,при этом сохраняя поля,указывающие на прошлую принадлежность к старым таблицам.
 
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 ![Alt text](images/image8.png)
 
-![Alt text](image-4.png)
+![Alt text](images/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](images/image-5.png)
 
-![Alt text](image-6.png)
+![Alt text](images/image-6.png)
 
-![Alt text](image-7.png)
+![Alt text](images/image-7.png)
